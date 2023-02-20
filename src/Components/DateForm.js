@@ -30,7 +30,7 @@ export default function DateForm({ date, setDate }) {
               id="button-addon2"
               onClick={clickHandler}
             >
-              Button
+              GO
             </Button>
           </InputGroup>
         </Form.Group>
